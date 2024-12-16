@@ -3813,3 +3813,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 08:03:02.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC fell from a high place
 [16Dec2024 08:03:02.389] [Server thread/INFO] [tombstone/]: The player YermanPC has successfully been saved
 [16Dec2024 08:03:04.201] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[16Dec2024 08:18:36.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Red Double Card Table] to YermanPC]
