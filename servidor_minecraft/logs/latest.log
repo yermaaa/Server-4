@@ -3785,3 +3785,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 06:34:42.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC fell from a high place
 [16Dec2024 06:34:43.013] [Server thread/INFO] [tombstone/]: The player YermanPC has successfully been saved
 [16Dec2024 06:34:44.787] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[16Dec2024 06:42:44.782] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/multiblock/MultiblockCuboid$CuboidSide
+[16Dec2024 06:44:36.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=56, z=-527} BlockPos{x=32, y=57, z=-527}
