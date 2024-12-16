@@ -3806,3 +3806,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 07:41:46.257] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/Interactable$InteractionResult
 [16Dec2024 07:41:46.259] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/InteractionInfo$Type
 [16Dec2024 07:51:46.983] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[16Dec2024 08:01:39.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Creative Mode]
+[16Dec2024 08:01:45.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Survival Mode]
+[16Dec2024 08:01:51.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Creative Mode]
+[16Dec2024 08:01:54.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Survival Mode]
+[16Dec2024 08:03:02.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC fell from a high place
+[16Dec2024 08:03:02.389] [Server thread/INFO] [tombstone/]: The player YermanPC has successfully been saved
+[16Dec2024 08:03:04.201] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
