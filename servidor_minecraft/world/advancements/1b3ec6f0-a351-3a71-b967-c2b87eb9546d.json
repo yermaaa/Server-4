@@ -1186,6 +1186,12 @@
     },
     "done": true
   },
+  "ic2:planter_pot_coarse_dirt_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-16 08:30:38 +0000"
+    },
+    "done": true
+  },
   "ic2:uranium_charcoal_isotopic_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 19:16:18 +0000"
