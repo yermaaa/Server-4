@@ -482,6 +482,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 21:04:10 +0000"
+    },
+    "done": false
+  },
   "ic2:tfbp_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:22:51 +0000"
@@ -716,6 +722,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 21:04:10 +0000"
+    },
+    "done": false
+  },
   "ic2:cobblegen_upgrade_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:15:16 +0000"
@@ -937,6 +949,12 @@
       "hasItem": "2024-12-09 03:07:41 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 21:04:10 +0000"
+    },
+    "done": false
   },
   "ic2:iron_furnace_upgrade_recipe_advancement": {
     "criteria": {
@@ -1798,6 +1816,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 21:04:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-09 02:53:20 +0000"
@@ -1854,7 +1878,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2024-12-16 21:02:10 +0000"
+      "log_spam_fixer": "2024-12-16 21:04:10 +0000"
     },
     "done": false
   },
@@ -2403,6 +2427,13 @@
   "ic2:iv_battery_station_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:50:26 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-12-16 21:04:14 +0000",
+      "log_spam_fixer": "2024-12-16 21:04:10 +0000"
     },
     "done": true
   },
@@ -3556,6 +3587,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 21:04:10 +0000"
+    },
+    "done": false
+  },
   "ic2:cfoam_carpet_red_3_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:26:05 +0000"
@@ -3639,6 +3676,12 @@
       "hasItem": "2024-12-09 03:03:06 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 21:04:10 +0000"
+    },
+    "done": false
   },
   "ulterlands:starsteel": {
     "criteria": {
@@ -3844,6 +3887,12 @@
       "hasItem": "2024-12-09 18:15:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 21:04:10 +0000"
+    },
+    "done": false
   },
   "ic2:fertilizer_0_recipe_advancement": {
     "criteria": {
@@ -4338,6 +4387,12 @@
       "hasItem": "2024-12-13 12:47:43 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 21:04:10 +0000"
+    },
+    "done": false
   },
   "ic2:generator_1_recipe_advancement": {
     "criteria": {
@@ -5010,6 +5065,12 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 21:04:10 +0000"
+    },
+    "done": false
+  },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2024-12-09 23:23:34 +0000",
@@ -5028,6 +5089,12 @@
       "hasItem": "2024-12-09 18:15:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-16 21:04:10 +0000"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/cursed_scroll": {
     "criteria": {
