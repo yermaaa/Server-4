@@ -3787,3 +3787,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 06:34:44.787] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [16Dec2024 06:42:44.782] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/multiblock/MultiblockCuboid$CuboidSide
 [16Dec2024 06:44:36.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=56, z=-527} BlockPos{x=32, y=57, z=-527}
+[16Dec2024 07:01:47.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-58, y=92, z=-309} BlockPos{x=-59, y=91, z=-309}
+[16Dec2024 07:04:13.884] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
+[16Dec2024 07:04:17.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Tube] to YermanPC]
+[16Dec2024 07:04:18.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Tube] to YermanPC]
+[16Dec2024 07:04:24.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Alloy Smelter] to YermanPC]
