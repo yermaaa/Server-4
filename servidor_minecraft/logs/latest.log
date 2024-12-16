@@ -3919,3 +3919,97 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 20:52:56.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> fuiste a buscar al enano
 [16Dec2024 20:53:10.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> a cogermelo
 [16Dec2024 20:53:55.770] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.51.19.16:60113 lost connection: Disconnected
+[16Dec2024 20:55:23.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> che nose que paso con mi instagram
+[16Dec2024 20:55:48.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> desde que vito me mando dos reels de enanas
+[16Dec2024 20:55:59.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> me aparecen enanas y prostitutas
+[16Dec2024 20:56:07.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> o las dos
+[16Dec2024 20:56:08.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-65, y=16, z=-126} BlockPos{x=-66, y=16, z=-126}
+[16Dec2024 20:56:20.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=16, z=-106} BlockPos{x=-71, y=16, z=-105}
+[16Dec2024 20:56:20.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=16, z=-106} BlockPos{x=-71, y=16, z=-105}
+[16Dec2024 20:56:20.984] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=16, z=-106} BlockPos{x=-71, y=16, z=-105}
+[16Dec2024 20:56:21.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-71, y=16, z=-107} BlockPos{x=-71, y=16, z=-105}
+[16Dec2024 20:56:21.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-71, y=16, z=-107} BlockPos{x=-71, y=16, z=-105}
+[16Dec2024 20:56:21.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=16, z=-108} BlockPos{x=-71, y=16, z=-105}
+[16Dec2024 20:56:21.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=16, z=-108} BlockPos{x=-71, y=16, z=-105}
+[16Dec2024 20:56:21.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=16, z=-108} BlockPos{x=-71, y=16, z=-105}
+[16Dec2024 20:56:21.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=16, z=-107} BlockPos{x=-71, y=16, z=-105}
+[16Dec2024 20:56:21.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=16, z=-107} BlockPos{x=-71, y=16, z=-105}
+[16Dec2024 20:56:36.874] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Dec2024 20:57:55.313] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=16, z=-174} BlockPos{x=-116, y=16, z=-175}
+[16Dec2024 20:57:55.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=16, z=-174} BlockPos{x=-116, y=16, z=-175}
+[16Dec2024 20:57:55.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> t
+[16Dec2024 20:58:03.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> te digo que
+[16Dec2024 20:58:03.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> esta por pegar un lagaso creo
+[16Dec2024 20:58:15.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> tu instagram es como el libre mercado
+[16Dec2024 20:58:18.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> no esta cargando el mapa
+[16Dec2024 20:58:22.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> se autoregula.
+[16Dec2024 20:58:29.340] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[16Dec2024 20:58:35.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5750ms or 115 ticks behind
+[16Dec2024 20:58:48.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> cargo
+[16Dec2024 20:58:56.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> lo que consumis (demanda) es lo que te vuelven a ofrecer (oferta)
+[16Dec2024 20:59:01.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> vos sabras lo que ves
+[16Dec2024 20:59:08.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=16, z=-194} BlockPos{x=-128, y=16, z=-193}
+[16Dec2024 20:59:08.675] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=16, z=-194} BlockPos{x=-128, y=16, z=-193}
+[16Dec2024 20:59:12.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> mi lupita
+[16Dec2024 20:59:15.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> sigue intacta
+[16Dec2024 20:59:38.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-125, y=16, z=-211} BlockPos{x=-125, y=16, z=-212}
+[16Dec2024 20:59:51.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> que es mas de lo que muchos de ester server no pueden decir
+[16Dec2024 21:00:06.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> ni me quiero imaginar el feed de vito
+[16Dec2024 21:00:26.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> el feed de vito debe ser una catacumba de lujuria
+[16Dec2024 21:00:37.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> pero el feed de german es el infierno mismo
+[16Dec2024 21:00:54.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> uff
+[16Dec2024 21:00:59.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> dos de los grandes lecheros del server
+[16Dec2024 21:01:02.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=16, z=-174} BlockPos{x=-73, y=16, z=-174}
+[16Dec2024 21:01:02.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=16, z=-173} BlockPos{x=-73, y=16, z=-174}
+[16Dec2024 21:01:02.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=16, z=-171} BlockPos{x=-73, y=16, z=-173}
+[16Dec2024 21:01:02.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=16, z=-171} BlockPos{x=-73, y=16, z=-173}
+[16Dec2024 21:01:02.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-75, y=16, z=-172} BlockPos{x=-73, y=16, z=-173}
+[16Dec2024 21:01:15.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=16, z=-133} BlockPos{x=-84, y=16, z=-132}
+[16Dec2024 21:01:15.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=16, z=-133} BlockPos{x=-84, y=16, z=-132}
+[16Dec2024 21:01:15.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=16, z=-134} BlockPos{x=-84, y=16, z=-132}
+[16Dec2024 21:01:15.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=16, z=-134} BlockPos{x=-84, y=16, z=-132}
+[16Dec2024 21:01:15.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=16, z=-134} BlockPos{x=-84, y=16, z=-132}
+[16Dec2024 21:01:15.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=16, z=-134} BlockPos{x=-84, y=16, z=-132}
+[16Dec2024 21:01:16.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=16, z=-134} BlockPos{x=-84, y=16, z=-132}
+[16Dec2024 21:01:17.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=16, z=-140} BlockPos{x=-84, y=16, z=-139}
+[16Dec2024 21:01:37.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=16, z=-159} BlockPos{x=-100, y=16, z=-160}
+[16Dec2024 21:01:38.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-99, y=16, z=-154} BlockPos{x=-98, y=16, z=-156}
+[16Dec2024 21:01:38.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-100, y=16, z=-154} BlockPos{x=-98, y=16, z=-156}
+[16Dec2024 21:01:38.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=16, z=-154} BlockPos{x=-98, y=16, z=-156}
+[16Dec2024 21:01:38.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=16, z=-152} BlockPos{x=-102, y=16, z=-154}
+[16Dec2024 21:01:38.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-99, y=16, z=-152} BlockPos{x=-102, y=16, z=-154}
+[16Dec2024 21:01:38.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-100, y=16, z=-152} BlockPos{x=-102, y=16, z=-154}
+[16Dec2024 21:01:38.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=16, z=-152} BlockPos{x=-102, y=16, z=-154}
+[16Dec2024 21:01:38.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=16, z=-152} BlockPos{x=-102, y=16, z=-154}
+[16Dec2024 21:01:39.036] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=16, z=-152} BlockPos{x=-102, y=16, z=-154}
+[16Dec2024 21:01:39.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=16, z=-152} BlockPos{x=-102, y=16, z=-154}
+[16Dec2024 21:01:39.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=16, z=-152} BlockPos{x=-102, y=16, z=-154}
+[16Dec2024 21:01:39.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=16, z=-152} BlockPos{x=-102, y=16, z=-154}
+[16Dec2024 21:01:39.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=16, z=-152} BlockPos{x=-102, y=16, z=-154}
+[16Dec2024 21:01:39.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=16, z=-150} BlockPos{x=-102, y=16, z=-154}
+[16Dec2024 21:01:39.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-99, y=16, z=-150} BlockPos{x=-102, y=16, z=-154}
+[16Dec2024 21:01:39.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-100, y=16, z=-150} BlockPos{x=-102, y=16, z=-154}
+[16Dec2024 21:01:57.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player isn't banned
+[16Dec2024 21:02:05.362] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Dec2024 21:02:05.363] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Dec2024 21:02:05.364] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Dec2024 21:02:05.365] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Dec2024 21:02:06.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16Dec2024 21:02:44.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> pero capaz el peor sea el feed de twitter de flaco
+[16Dec2024 21:03:16.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AssaGM> porque en ese lugar todo vale
+[16Dec2024 21:03:51.845] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-58, z=-81}
+[16Dec2024 21:03:51.846] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=-79}
+[16Dec2024 21:03:51.846] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=-78}
+[16Dec2024 21:04:34.210] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-57, z=12}
+[16Dec2024 21:04:34.212] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-58, z=18}
+[16Dec2024 21:04:34.212] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=6, y=-58, z=18}
+[16Dec2024 21:04:34.213] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=4, y=-58, z=17}
+[16Dec2024 21:04:34.213] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=9, y=-58, z=20}
+[16Dec2024 21:04:34.214] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=25, y=-57, z=10}
+[16Dec2024 21:04:34.214] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-57, z=8}
+[16Dec2024 21:04:34.215] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=17, y=-56, z=14}
+[16Dec2024 21:04:34.215] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-56, z=14}
+[16Dec2024 21:04:34.216] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-56, z=14}
+[16Dec2024 21:04:34.216] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=20}
+[16Dec2024 21:04:38.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] muchachos lean ds
+[16Dec2024 21:04:47.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4298ms or 85 ticks behind
