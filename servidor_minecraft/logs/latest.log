@@ -24,3 +24,11 @@
 [17Dec2024 00:26:49.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Nether Quartz] to YermanPC]
 [17Dec2024 00:26:51.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Nether Quartz] to YermanPC]
 [17Dec2024 00:26:53.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Nether Quartz] to YermanPC]
+[17Dec2024 00:30:06.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
+[17Dec2024 00:33:29.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElCachita_HD lost connection: Disconnected
+[17Dec2024 00:33:29.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElCachita_HD left the game
+[17Dec2024 00:36:06.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro has reached the goal [Sky's the Limit]
+[17Dec2024 00:38:09.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClementePicaro lost connection: Disconnected
+[17Dec2024 00:38:09.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro left the game
+[17Dec2024 00:45:54.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AssaGM lost connection: Disconnected
+[17Dec2024 00:45:54.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM left the game
