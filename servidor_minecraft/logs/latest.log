@@ -41,3 +41,14 @@
 [17Dec2024 01:02:01.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3392ms or 67 ticks behind
 [17Dec2024 01:15:05.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=75, y=62, z=-67} BlockPos{x=76, y=62, z=-60}
 [17Dec2024 01:15:05.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=75, y=62, z=-67} BlockPos{x=76, y=62, z=-60}
+[17Dec2024 01:22:19.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Eternal Stella] to YermanPC]
+[17Dec2024 01:25:31.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Tome of Hungering Knowledge] to YermanPC]
+[17Dec2024 01:25:55.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 16    [Xpetrified Orb] to YermanPC]
+[17Dec2024 01:25:56.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 16    [Xpetrified Orb] to YermanPC]
+[17Dec2024 01:26:04.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 16    [Xpetrified Orb] to YermanPC]
+[17Dec2024 01:27:29.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Block of Gold] to YermanPC]
+[17Dec2024 01:27:29.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Block of Gold] to YermanPC]
+[17Dec2024 01:27:29.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Block of Gold] to YermanPC]
+[17Dec2024 01:27:29.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Block of Gold] to YermanPC]
+[17Dec2024 01:27:30.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Block of Gold] to YermanPC]
+[17Dec2024 01:27:30.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Block of Gold] to YermanPC]
