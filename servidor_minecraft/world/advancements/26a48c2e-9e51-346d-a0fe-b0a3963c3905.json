@@ -2294,6 +2294,12 @@
     },
     "done": true
   },
+  "corail_dt:tutorial/build_complete": {
+    "criteria": {
+      "requirement1": "2024-12-17 10:48:16 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "cabbage_seeds": "2024-12-09 03:07:43 +0000"
