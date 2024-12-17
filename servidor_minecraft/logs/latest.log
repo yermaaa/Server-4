@@ -16,3 +16,11 @@
 [17Dec2024 00:16:15.430] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/tank/ISmelteryTankHandler$FluidChange
 [17Dec2024 00:17:47.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=46, z=-234} BlockPos{x=-380, y=47, z=-233}
 [17Dec2024 00:17:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [Ghost Riders In The Sky]
+[17Dec2024 00:22:06.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Block of Iron] to YermanPC]
+[17Dec2024 00:22:07.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Block of Iron] to YermanPC]
+[17Dec2024 00:22:07.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Block of Iron] to YermanPC]
+[17Dec2024 00:23:48.182] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[17Dec2024 00:25:30.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[17Dec2024 00:26:49.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Nether Quartz] to YermanPC]
+[17Dec2024 00:26:51.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Nether Quartz] to YermanPC]
+[17Dec2024 00:26:53.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Nether Quartz] to YermanPC]
