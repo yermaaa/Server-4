@@ -85,3 +85,30 @@
 [17Dec2024 01:51:08.975] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/inventory/slot/IGhostSlot$GhostType
 [17Dec2024 01:51:10.956] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/tiles/impls/machine/single/BaseMachineTileEntity$RecipeResult
 [17Dec2024 02:03:55.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[17Dec2024 02:28:45.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Teleported YermanPC to -332.500000, 68.500000, -621.500000]
+[17Dec2024 02:29:55.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Teleported YermanPC to -66.500000, 103.500000, -314.500000]
+[17Dec2024 02:30:13.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] fsfs
+[17Dec2024 02:30:22.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Dec2024 02:30:22.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: backup<--[HERE]
+[17Dec2024 02:31:11.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasfsaf
+[17Dec2024 02:31:14.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasffgh
+[17Dec2024 02:31:15.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> afsafasf
+[17Dec2024 02:31:17.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> hgfhgfh
+[17Dec2024 02:31:18.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> ds
+[17Dec2024 02:31:19.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> sda
+[17Dec2024 02:31:21.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> dasd
+[17Dec2024 02:31:22.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fsf
+[17Dec2024 02:31:23.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fsf
+[17Dec2024 02:31:25.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasfas
+[17Dec2024 02:34:35.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Teleported YermanPC to 754.500000, 106.000000, -2666.500000]
+[17Dec2024 02:34:35.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7794ms or 155 ticks behind
+[17Dec2024 02:34:36.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasfas
+[17Dec2024 02:34:47.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fffsf
+[17Dec2024 02:34:50.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC fell from a high place
+[17Dec2024 02:34:50.745] [Server thread/INFO] [tombstone/]: The player YermanPC has successfully been saved
+[17Dec2024 02:34:52.737] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[17Dec2024 02:35:09.733] [Worker-Main-348/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=203, y=48, z=159}
+[17Dec2024 02:35:16.634] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[17Dec2024 02:36:39.222] [Worker-Main-333/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[17Dec2024 02:36:39.229] [Worker-Main-333/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[17Dec2024 02:36:40.485] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
