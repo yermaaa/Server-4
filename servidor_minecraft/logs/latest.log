@@ -9,3 +9,10 @@
 [17Dec2024 00:03:02.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> FAS
 [17Dec2024 00:03:55.398] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-120, y=24, z=29}
 [17Dec2024 00:05:55.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [The City at the End of the Game]
+[17Dec2024 00:11:47.410] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[17Dec2024 00:11:53.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has reached the goal [Sky's the Limit]
+[17Dec2024 00:12:16.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[17Dec2024 00:12:34.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Agizahr the Archmage'/33343, l='ServerLevel[world]', x=-1854.96, y=134.00, z=328.70] died: Agizahr the Archmage was slain by AssaGM
+[17Dec2024 00:16:15.430] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/tank/ISmelteryTankHandler$FluidChange
+[17Dec2024 00:17:47.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=46, z=-234} BlockPos{x=-380, y=47, z=-233}
+[17Dec2024 00:17:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AssaGM has made the advancement [Ghost Riders In The Sky]

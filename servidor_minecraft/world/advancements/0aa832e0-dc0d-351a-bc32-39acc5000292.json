@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/enigmatic_elytra": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 00:11:53 +0000"
+    },
+    "done": true
+  },
   "ic2:glowtronic_crystal_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 02:30:00 +0000"
@@ -2177,6 +2183,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-17 00:05:55 +0000"
+    },
+    "done": true
+  },
   "ic2:redstone_sensitivity_upgrade_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 01:21:31 +0000"
@@ -2683,6 +2695,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-17 00:11:53 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_red_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 18:26:05 +0000"
@@ -2734,6 +2752,12 @@
   "ic2:bronze_hoe_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:50:23 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enigmatic_elytra": {
+    "criteria": {
+      "has_items": "2024-12-17 00:11:53 +0000"
     },
     "done": true
   },
