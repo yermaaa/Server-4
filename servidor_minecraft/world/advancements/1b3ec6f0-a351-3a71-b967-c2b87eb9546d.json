@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "ic2:silver_dust_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-17 03:14:45 +0000"
+    },
+    "done": true
+  },
   "ic2:aluminum_ingot_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-16 07:58:57 +0000"
@@ -4893,6 +4899,12 @@
     },
     "done": true
   },
+  "ic2:gold_dust_to_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-17 03:14:45 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_carpet_red_3_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 21:59:41 +0000"
@@ -5616,6 +5628,12 @@
   "ic2:energy_storage_upgrade_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:55 +0000"
+    },
+    "done": true
+  },
+  "ic2:silver_dust_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-17 03:14:45 +0000"
     },
     "done": true
   },
