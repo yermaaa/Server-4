@@ -3785,3 +3785,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Dec2024 22:08:56.317] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/ChangeThrottlePacket$Type
 [17Dec2024 22:13:04.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Disconnected
 [17Dec2024 22:13:04.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
+[17Dec2024 22:51:18.985] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[17Dec2024 22:51:18.986] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[17Dec2024 22:51:18.986] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[17Dec2024 22:51:19.157] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[17Dec2024 22:51:19.158] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[17Dec2024 22:51:19.162] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[17Dec2024 22:51:19.163] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[17Dec2024 22:51:19.337] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[17Dec2024 22:51:19.338] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[17Dec2024 22:51:19.338] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[17Dec2024 22:51:19.441] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[17Dec2024 22:51:19.489] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[17Dec2024 22:51:19.725] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[17Dec2024 22:51:19.726] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[17Dec2024 22:51:19.726] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[17Dec2024 22:51:19.887] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@35575340
+[17Dec2024 22:51:19.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YermanPC[/127.51.19.16:33789] logged in with entity id 4399 at (1286.922086486827, 150.0, 175.0667477561926)
+[17Dec2024 22:51:20.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC joined the game
+[17Dec2024 22:51:20.202] [Server thread/INFO] [Jade/]: Syncing config to YermanPC (1b3ec6f0-a351-3a71-b967-c2b87eb9546d)
+[17Dec2024 22:51:20.244] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
+[17Dec2024 22:51:20.245] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[17Dec2024 22:51:20.246] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[17Dec2024 22:51:22.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2671ms or 53 ticks behind
+[17Dec2024 22:53:38.481] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[17Dec2024 22:53:38.495] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[17Dec2024 22:53:38.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[17Dec2024 22:54:16.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [A Terrible Fortress]
+[17Dec2024 22:55:29.545] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[17Dec2024 22:56:01.808] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
