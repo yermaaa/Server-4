@@ -3863,3 +3863,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Dec2024 23:06:34.296] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
 [17Dec2024 23:06:34.296] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [17Dec2024 23:06:34.297] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[17Dec2024 23:06:52.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[17Dec2024 23:11:23.723] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[17Dec2024 23:11:23.730] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[17Dec2024 23:13:44.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Disconnected
+[17Dec2024 23:13:44.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
