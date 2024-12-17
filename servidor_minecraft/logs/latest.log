@@ -112,3 +112,16 @@
 [17Dec2024 02:36:39.222] [Worker-Main-333/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
 [17Dec2024 02:36:39.229] [Worker-Main-333/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
 [17Dec2024 02:36:40.485] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[17Dec2024 02:41:54.901] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[17Dec2024 02:42:08.890] [Worker-Main-333/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Dec2024 02:42:08.890] [Worker-Main-333/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Dec2024 02:42:08.890] [Worker-Main-333/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Dec2024 02:42:08.891] [Worker-Main-333/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Dec2024 02:42:18.558] [Worker-Main-348/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Dec2024 02:42:18.559] [Worker-Main-348/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Dec2024 02:42:18.559] [Worker-Main-348/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Dec2024 02:42:18.559] [Worker-Main-348/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Dec2024 02:46:59.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC was doomed to fall by Decaying Zombie
+[17Dec2024 02:46:59.538] [Server thread/INFO] [tombstone/]: The player YermanPC has successfully been saved
+[17Dec2024 02:47:02.246] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[17Dec2024 02:47:26.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Uzsahe the Endborn'/74133, l='ServerLevel[world]', x=1434.80, y=68.00, z=-2759.20] died: Uzsahe the Endborn was slain by YermanPC

@@ -1538,6 +1538,12 @@
     },
     "done": false
   },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2024-12-17 02:41:31 +0000"
+    },
+    "done": true
+  },
   "ic2:fisher_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 05:42:19 +0000"
@@ -4051,6 +4057,7 @@
       "orchard": "2024-12-16 06:28:06 +0000",
       "coniferous_forest": "2024-12-09 02:46:53 +0000",
       "forested_field": "2024-12-16 01:31:06 +0000",
+      "redwood_forest": "2024-12-17 02:41:57 +0000",
       "cherry_blossom_grove": "2024-12-16 06:27:43 +0000",
       "seasonal_orchard": "2024-12-09 03:05:43 +0000",
       "dune_beach": "2024-12-16 06:34:41 +0000",
