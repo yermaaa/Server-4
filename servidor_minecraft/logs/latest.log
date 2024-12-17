@@ -39,3 +39,5 @@
 [17Dec2024 00:57:53.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 64    [Magma Cream] to YermanPC]
 [17Dec2024 01:01:19.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> safas
 [17Dec2024 01:02:01.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3392ms or 67 ticks behind
+[17Dec2024 01:15:05.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=75, y=62, z=-67} BlockPos{x=76, y=62, z=-60}
+[17Dec2024 01:15:05.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=75, y=62, z=-67} BlockPos{x=76, y=62, z=-60}

@@ -1508,6 +1508,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/misc/extradimensional_eye": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 01:08:21 +0000"
+    },
+    "done": true
+  },
   "ic2:simple_fluid_export_upgrade_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:16:45 +0000"
@@ -1745,6 +1751,7 @@
   "tconstruct:smeltery/cast_collector": {
     "criteria": {
       "tough_handle": "2024-12-13 02:36:33 +0000",
+      "gem": "2024-12-17 01:05:54 +0000",
       "ingot": "2024-12-12 16:14:38 +0000"
     },
     "done": false
@@ -1758,6 +1765,12 @@
   "enigmaticlegacy:book/accessories/magnet_ring": {
     "criteria": {
       "has_the_recipe": "2024-12-09 18:51:04 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/recall_potion": {
+    "criteria": {
+      "has_items": "2024-12-17 01:08:21 +0000"
     },
     "done": true
   },
@@ -4844,6 +4857,12 @@
     },
     "done": false
   },
+  "enigmaticlegacy:recipes/generic/extradimensional_eye": {
+    "criteria": {
+      "has_items": "2024-12-17 01:08:21 +0000"
+    },
+    "done": true
+  },
   "ic2:hv_charge_bench_kit_direct_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 21:17:08 +0000"
@@ -5359,6 +5378,12 @@
   "ic2:speed_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:49:33 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/super_magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 01:08:21 +0000"
     },
     "done": true
   },
@@ -6344,9 +6369,10 @@
   },
   "enigmaticlegacy:recipes/generic/super_magnet_ring": {
     "criteria": {
-      "has_parent_recipe": "2024-12-09 18:51:04 +0000"
+      "has_parent_recipe": "2024-12-09 18:51:04 +0000",
+      "has_items": "2024-12-17 01:08:21 +0000"
     },
-    "done": false
+    "done": true
   },
   "ic2:mfe_upgrade_kit_indirect_bronze_recipe_advancement": {
     "criteria": {
