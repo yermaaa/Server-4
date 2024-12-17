@@ -1642,6 +1642,12 @@
     },
     "done": true
   },
+  "phantasm:enter_dreaming_den": {
+    "criteria": {
+      "enter_dreaming_den": "2024-12-17 00:01:27 +0000"
+    },
+    "done": true
+  },
   "ic2:hv_battery_station_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:50:26 +0000"
@@ -2186,6 +2192,12 @@
   "ic2:reactor_planner_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-12-17 00:01:03 +0000"
     },
     "done": true
   },

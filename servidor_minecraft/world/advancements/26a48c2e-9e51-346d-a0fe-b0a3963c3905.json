@@ -513,6 +513,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-12-16 23:57:25 +0000"
+    },
+    "done": true
+  },
   "ic2:itnt_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 03:28:46 +0000"
@@ -3654,6 +3660,12 @@
     },
     "done": true
   },
+  "simplyswords:dormant_relic": {
+    "criteria": {
+      "requirement": "2024-12-16 23:57:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-12 13:19:34 +0000",
@@ -3673,6 +3685,7 @@
       "minecraft:witch": "2024-12-13 02:57:56 +0000",
       "minecraft:wither_skeleton": "2024-12-12 21:29:50 +0000",
       "minecraft:husk": "2024-12-09 03:36:38 +0000",
+      "minecraft:ender_dragon": "2024-12-16 23:57:25 +0000",
       "minecraft:cave_spider": "2024-12-09 03:07:56 +0000",
       "minecraft:piglin": "2024-12-13 12:56:25 +0000",
       "minecraft:enderman": "2024-12-09 19:50:35 +0000",
