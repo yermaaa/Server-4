@@ -4165,6 +4165,12 @@
     },
     "done": true
   },
+  "cisco_mod:cover_me_in_brightsteel": {
+    "criteria": {
+      "cover_me_in_brightsteel": "2024-12-17 00:54:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-12 03:43:43 +0000"
