@@ -81,3 +81,6 @@
 [17Dec2024 01:49:48.748] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
 [17Dec2024 01:49:48.749] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [17Dec2024 01:49:48.749] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[17Dec2024 01:50:48.860] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/features/IClickable$ClickAction
+[17Dec2024 01:51:08.975] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/inventory/slot/IGhostSlot$GhostType
+[17Dec2024 01:51:10.956] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/tiles/impls/machine/single/BaseMachineTileEntity$RecipeResult
