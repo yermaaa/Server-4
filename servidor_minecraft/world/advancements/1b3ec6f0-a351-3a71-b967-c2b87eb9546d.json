@@ -2968,6 +2968,12 @@
     },
     "done": true
   },
+  "ic2:raw_aluminium_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-22 23:25:58 +0000"
+    },
+    "done": true
+  },
   "ic2:empty_cell_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:43:45 +0000"
@@ -4234,6 +4240,7 @@
       "minecraft:witch": "2024-12-09 19:53:11 +0000",
       "minecraft:wither_skeleton": "2024-12-10 00:43:16 +0000",
       "minecraft:cave_spider": "2024-12-10 00:59:06 +0000",
+      "minecraft:piglin": "2024-12-22 23:40:48 +0000",
       "minecraft:enderman": "2024-12-09 21:18:43 +0000",
       "minecraft:silverfish": "2024-12-09 23:41:13 +0000",
       "minecraft:zombie": "2024-12-09 03:43:51 +0000",

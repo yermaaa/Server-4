@@ -3753,3 +3753,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 23:20:33.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1878, y=17, z=362} BlockPos{x=1877, y=16, z=362}
 [22Dec2024 23:20:33.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1878, y=17, z=362} BlockPos{x=1877, y=16, z=362}
 [22Dec2024 23:20:33.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1877, y=17, z=361} BlockPos{x=1877, y=16, z=362}
+[22Dec2024 23:41:48.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1881, y=19, z=345} BlockPos{x=1882, y=18, z=345}
+[22Dec2024 23:41:48.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1881, y=17, z=345} BlockPos{x=1882, y=18, z=345}
+[22Dec2024 23:41:48.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1882, y=17, z=345} BlockPos{x=1882, y=18, z=345}
+[22Dec2024 23:41:48.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1881, y=18, z=346} BlockPos{x=1882, y=18, z=345}
+[22Dec2024 23:41:49.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1879, y=19, z=344} BlockPos{x=1880, y=19, z=344}
