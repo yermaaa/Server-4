@@ -3758,3 +3758,43 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 23:41:48.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1882, y=17, z=345} BlockPos{x=1882, y=18, z=345}
 [22Dec2024 23:41:48.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1881, y=18, z=346} BlockPos{x=1882, y=18, z=345}
 [22Dec2024 23:41:49.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1879, y=19, z=344} BlockPos{x=1880, y=19, z=344}
+[22Dec2024 23:43:26.704] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1832, y=18, z=314} BlockPos{x=1832, y=17, z=314}
+[22Dec2024 23:43:26.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1832, y=18, z=314} BlockPos{x=1832, y=17, z=314}
+[22Dec2024 23:43:54.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1843, y=16, z=294} BlockPos{x=1843, y=17, z=295}
+[22Dec2024 23:43:54.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1843, y=17, z=293} BlockPos{x=1843, y=17, z=295}
+[22Dec2024 23:43:54.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1843, y=17, z=293} BlockPos{x=1843, y=17, z=295}
+[22Dec2024 23:43:54.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1844, y=17, z=294} BlockPos{x=1843, y=17, z=295}
+[22Dec2024 23:43:54.788] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1843, y=15, z=296} BlockPos{x=1843, y=16, z=296}
+[22Dec2024 23:43:54.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1843, y=15, z=296} BlockPos{x=1843, y=16, z=296}
+[22Dec2024 23:43:54.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1844, y=15, z=297} BlockPos{x=1843, y=16, z=296}
+[22Dec2024 23:43:57.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1840, y=18, z=300} BlockPos{x=1840, y=16, z=300}
+[22Dec2024 23:43:57.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1839, y=18, z=300} BlockPos{x=1840, y=16, z=300}
+[22Dec2024 23:43:57.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1839, y=17, z=300} BlockPos{x=1840, y=16, z=300}
+[22Dec2024 23:43:57.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1839, y=17, z=300} BlockPos{x=1840, y=16, z=300}
+[22Dec2024 23:44:29.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1835, y=15, z=276} BlockPos{x=1834, y=15, z=276}
+[22Dec2024 23:49:31.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YermanPC lost connection: Timed out
+[22Dec2024 23:49:31.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC left the game
+[22Dec2024 23:49:31.996] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[22Dec2024 23:49:32.075] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Dec2024 23:49:57.014] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[22Dec2024 23:49:57.015] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[22Dec2024 23:49:57.015] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[22Dec2024 23:49:57.016] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[22Dec2024 23:49:57.016] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[22Dec2024 23:49:57.017] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[22Dec2024 23:49:57.017] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[22Dec2024 23:49:57.068] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[22Dec2024 23:49:57.069] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[22Dec2024 23:49:57.372] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[22Dec2024 23:49:57.373] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[22Dec2024 23:49:57.373] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[22Dec2024 23:49:57.415] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[22Dec2024 23:49:57.416] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[22Dec2024 23:49:57.416] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[22Dec2024 23:49:57.530] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6da93031
+[22Dec2024 23:49:57.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YermanPC[/127.51.19.16:38337] logged in with entity id 31334 at (1907.1745767264074, 14.0, 229.3503962517149)
+[22Dec2024 23:49:57.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC joined the game
+[22Dec2024 23:49:57.708] [Server thread/INFO] [Jade/]: Syncing config to YermanPC (1b3ec6f0-a351-3a71-b967-c2b87eb9546d)
+[22Dec2024 23:49:57.741] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
+[22Dec2024 23:49:57.742] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[22Dec2024 23:49:57.742] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
