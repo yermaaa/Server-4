@@ -3896,3 +3896,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 22:04:34.596] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [23Dec2024 22:04:34.597] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ClementePicaro
 [23Dec2024 22:12:40.822] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/minecraft/events/WaystoneUpdatedEvent$Type
+[23Dec2024 22:21:11.545] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
+[23Dec2024 22:21:12.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Diamond] to YermanPC]
+[23Dec2024 22:23:00.611] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/entity/lostsoul/LostSoul$Variant
