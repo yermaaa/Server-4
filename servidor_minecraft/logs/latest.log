@@ -7,3 +7,8 @@
 [23Dec2024 00:42:06.505] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cursegame/minecraft/dt/network/ServerMessageTable$Action
 [23Dec2024 00:48:29.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Diamond Reinforced Hammer] to YermanPC]
 [23Dec2024 00:48:31.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Diamond Destructor Hammer] to YermanPC]
+[23Dec2024 01:10:26.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=70, z=-228} BlockPos{x=-33, y=69, z=-228}
+[23Dec2024 01:10:26.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=70, z=-228} BlockPos{x=-33, y=69, z=-228}
+[23Dec2024 01:10:26.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=70, z=-228} BlockPos{x=-33, y=69, z=-228}
+[23Dec2024 01:10:27.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=71, z=-230} BlockPos{x=-35, y=69, z=-229}
+[23Dec2024 01:10:27.497] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=71, z=-230} BlockPos{x=-35, y=69, z=-229}
