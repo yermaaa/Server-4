@@ -56,3 +56,14 @@
 [23Dec2024 03:10:56.340] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@346446d
 [23Dec2024 03:13:52.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Tools of the Trade]
 [23Dec2024 03:14:17.397] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[23Dec2024 03:17:45.452] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[23Dec2024 03:17:45.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fasf
+[23Dec2024 03:24:40.093] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[23Dec2024 03:24:40.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC was slain by Vindicator
+[23Dec2024 03:24:40.104] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[23Dec2024 03:24:40.105] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlacementType
+[23Dec2024 03:24:40.106] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$PlaceType
+[23Dec2024 03:24:40.112] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[23Dec2024 03:24:40.130] [Server thread/INFO] [tombstone/]: The player YermanPC has successfully been saved
+[23Dec2024 03:24:41.733] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[23Dec2024 03:24:42.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
