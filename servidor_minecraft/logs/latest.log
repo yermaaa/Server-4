@@ -50,3 +50,9 @@
 [23Dec2024 02:51:22.288] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/multiblock/MultiblockCuboid$CuboidSide
 [23Dec2024 02:55:56.517] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
 [23Dec2024 02:57:26.473] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[23Dec2024 03:07:37.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Stephen'/63500, l='ServerLevel[world]', x=12.48, y=236.66, z=-1949.49] died, message: 'Stephen tried to swim in lava'
+[23Dec2024 03:07:37.640] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Stephen'/63500, l='ServerLevel[world]', x=12.48, y=236.66, z=-1949.49] died: Stephen tried to swim in lava
+[23Dec2024 03:09:35.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Flint and Steel] to YermanPC]
+[23Dec2024 03:10:56.340] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@346446d
+[23Dec2024 03:13:52.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [Tools of the Trade]
+[23Dec2024 03:14:17.397] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
