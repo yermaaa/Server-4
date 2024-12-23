@@ -3847,3 +3847,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 21:32:06.051] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [23Dec2024 21:32:06.052] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
 [23Dec2024 21:35:14.139] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/stal111/forbidden_arcanus/common/block/entity/forge/HephaestusForgeLevel
+[23Dec2024 21:44:55.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fsaf
+[23Dec2024 21:44:57.183] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/ChangeThrottlePacket$Type
+[23Dec2024 21:45:08.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> sfsaf

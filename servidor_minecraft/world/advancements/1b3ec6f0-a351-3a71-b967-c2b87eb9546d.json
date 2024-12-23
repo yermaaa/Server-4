@@ -970,6 +970,12 @@
     },
     "done": true
   },
+  "ic2:pressure_alloy_furnace_structure_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-23 21:41:13 +0000"
+    },
+    "done": true
+  },
   "ic2:mv_charging_bench_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:55 +0000"
