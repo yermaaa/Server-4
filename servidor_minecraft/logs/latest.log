@@ -3798,3 +3798,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 23:49:57.741] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to YermanPC...
 [22Dec2024 23:49:57.742] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [22Dec2024 23:49:57.742] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to YermanPC
+[22Dec2024 23:53:51.263] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/Interactable$InteractionResult
+[22Dec2024 23:53:51.268] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/InteractionInfo$Type
+[22Dec2024 23:53:51.271] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/utils/ServerType
+[22Dec2024 23:53:51.302] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/inventory/handler/AccessRule
+[22Dec2024 23:53:51.483] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/api/network/buffer/NetworkInfo$BitLevel
+[22Dec2024 23:53:54.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
+[22Dec2024 23:53:55.202] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/FaucetBlockEntity$FaucetState
+[22Dec2024 23:53:55.287] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$MonitorType
+[22Dec2024 23:53:55.299] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/resource/ImageInfo$ImageType
+[22Dec2024 23:53:55.305] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/block/BoomboxData$ContinuousType
+[22Dec2024 23:53:55.533] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/api/energy/tile/IEnergySource$SourceType
+[22Dec2024 23:53:55.626] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[22Dec2024 23:53:55.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/blockentity/MusicManagerBlockEntity$MonitorType
+[22Dec2024 23:53:55.646] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/networking/IMPPackets$MusicSyncType
+[22Dec2024 23:53:55.651] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/music/resource/AuthorityInfo$AuthorityType
+[22Dec2024 23:53:55.660] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-87, y=107, z=-294} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[22Dec2024 23:53:55.662] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-87, y=107, z=-295} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[22Dec2024 23:53:55.663] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-87, y=109, z=-295} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[22Dec2024 23:53:55.663] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-87, y=106, z=-294} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[22Dec2024 23:53:55.664] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Block entity sophisticatedbackpacks:backpack @ BlockPos{x=-87, y=106, z=-295} state Block{sophisticatedbackpacks:copper_backpack}[battery=false,facing=east,left_tank=false,right_tank=false,waterlogged=false] invalid for ticking:
+[22Dec2024 23:53:57.254] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/IBellConnections$BellConnection
+[22Dec2024 23:53:57.999] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/api/crops/ICrop$CropType
+[22Dec2024 23:54:25.081] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/content/mobs/entity/Stoneling$StonelingVariant
+[22Dec2024 23:57:04.899] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/server/music/MusicManager$PlayListGetType
+[22Dec2024 23:57:31.589] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/tank/ISmelteryTankHandler$FluidChange
