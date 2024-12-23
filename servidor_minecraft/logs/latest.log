@@ -3850,3 +3850,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 21:44:55.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fsaf
 [23Dec2024 21:44:57.183] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/ChangeThrottlePacket$Type
 [23Dec2024 21:45:08.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> sfsaf
+[23Dec2024 21:48:22.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClementePicaro lost connection: Disconnected
+[23Dec2024 21:48:22.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro left the game
