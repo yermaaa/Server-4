@@ -3903,3 +3903,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 22:37:38.840] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType
 [23Dec2024 22:40:44.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Stone Blacksmith Gavel] to YermanPC]
 [23Dec2024 22:42:24.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Eternal Stella] to YermanPC]
+[23Dec2024 22:49:58.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Bonescaller Staff] to YermanPC]
+[23Dec2024 22:53:06.191] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
