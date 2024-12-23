@@ -67,3 +67,12 @@
 [23Dec2024 03:24:40.130] [Server thread/INFO] [tombstone/]: The player YermanPC has successfully been saved
 [23Dec2024 03:24:41.733] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [23Dec2024 03:24:42.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[23Dec2024 03:26:26.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fsaf
+[23Dec2024 03:26:34.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> fsfasfs
+[23Dec2024 03:26:47.768] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[23Dec2024 03:27:09.375] [Worker-Main-473/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Variant
+[23Dec2024 03:27:09.378] [Worker-Main-473/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[23Dec2024 03:28:00.559] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-58, z=-81}
+[23Dec2024 03:28:00.560] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=-79}
+[23Dec2024 03:28:00.560] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=-78}
+[23Dec2024 03:28:29.963] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
