@@ -26,3 +26,8 @@
 [23Dec2024 02:14:32.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Rose Gold Broad Axe] to YermanPC]
 [23Dec2024 02:14:41.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Enchanted Book] to YermanPC]
 [23Dec2024 02:20:50.490] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[23Dec2024 02:29:56.270] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[23Dec2024 02:29:56.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Creative Mode]
+[23Dec2024 02:31:19.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Survival Mode]
+[23Dec2024 02:32:06.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Creative Mode]
+[23Dec2024 02:32:12.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Survival Mode]

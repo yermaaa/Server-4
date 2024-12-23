@@ -708,7 +708,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 02:21:22 +0000"
+      "log_spam_fixer": "2024-12-23 02:31:22 +0000"
     },
     "done": false
   },
@@ -990,7 +990,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 02:21:22 +0000"
+      "log_spam_fixer": "2024-12-23 02:31:22 +0000"
     },
     "done": false
   },
@@ -1320,7 +1320,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 02:21:22 +0000"
+      "log_spam_fixer": "2024-12-23 02:31:22 +0000"
     },
     "done": false
   },
@@ -1681,6 +1681,12 @@
   "ic2:chocolate_cake_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:41:12 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2024-12-23 02:31:05 +0000"
     },
     "done": true
   },
@@ -2538,7 +2544,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 02:21:22 +0000"
+      "log_spam_fixer": "2024-12-23 02:31:22 +0000"
     },
     "done": false
   },
@@ -2616,7 +2622,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 02:21:22 +0000"
+      "log_spam_fixer": "2024-12-23 02:31:22 +0000"
     },
     "done": false
   },
@@ -3338,7 +3344,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 02:21:22 +0000"
+      "log_spam_fixer": "2024-12-23 02:31:22 +0000"
     },
     "done": false
   },
@@ -5037,7 +5043,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 02:21:22 +0000"
+      "log_spam_fixer": "2024-12-23 02:31:22 +0000"
     },
     "done": false
   },
@@ -5148,7 +5154,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 02:21:22 +0000"
+      "log_spam_fixer": "2024-12-23 02:31:22 +0000"
     },
     "done": false
   },
@@ -5466,7 +5472,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 02:21:22 +0000"
+      "log_spam_fixer": "2024-12-23 02:31:22 +0000"
     },
     "done": false
   },
@@ -6082,6 +6088,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/abilities": {
+    "criteria": {
+      "autosmelt": "2024-12-23 02:31:05 +0000"
+    },
+    "done": false
+  },
   "ic2:rubberwood_door_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-23 01:20:12 +0000"
@@ -6094,9 +6106,15 @@
     },
     "done": true
   },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2024-12-23 02:22:13 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 02:21:22 +0000"
+      "log_spam_fixer": "2024-12-23 02:31:22 +0000"
     },
     "done": false
   },
@@ -6960,7 +6978,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 02:21:22 +0000"
+      "log_spam_fixer": "2024-12-23 02:31:22 +0000"
     },
     "done": false
   },
@@ -7003,7 +7021,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 02:21:22 +0000"
+      "log_spam_fixer": "2024-12-23 02:31:22 +0000"
     },
     "done": false
   },
