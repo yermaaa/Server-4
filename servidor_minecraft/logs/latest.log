@@ -4,3 +4,4 @@
 [23Dec2024 00:18:53.570] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/features/IClickable$ClickAction
 [23Dec2024 00:19:00.692] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/inventory/slot/IGhostSlot$GhostType
 [23Dec2024 00:19:44.889] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ic2/core/block/base/tiles/impls/machine/single/BaseMachineTileEntity$RecipeResult
+[23Dec2024 00:42:06.505] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cursegame/minecraft/dt/network/ServerMessageTable$Action
