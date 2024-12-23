@@ -708,7 +708,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 01:31:22 +0000"
+      "log_spam_fixer": "2024-12-23 01:41:22 +0000"
     },
     "done": false
   },
@@ -990,7 +990,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 01:31:22 +0000"
+      "log_spam_fixer": "2024-12-23 01:41:22 +0000"
     },
     "done": false
   },
@@ -1320,7 +1320,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 01:31:22 +0000"
+      "log_spam_fixer": "2024-12-23 01:41:22 +0000"
     },
     "done": false
   },
@@ -2404,6 +2404,12 @@
     },
     "done": true
   },
+  "ic2:planter_pot_mycelium_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-23 01:35:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-09 02:46:02 +0000"
@@ -2531,7 +2537,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 01:31:22 +0000"
+      "log_spam_fixer": "2024-12-23 01:41:22 +0000"
     },
     "done": false
   },
@@ -2609,7 +2615,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 01:31:22 +0000"
+      "log_spam_fixer": "2024-12-23 01:41:22 +0000"
     },
     "done": false
   },
@@ -2723,6 +2729,12 @@
     "criteria": {
       "requirement1": "2024-12-09 18:51:04 +0000",
       "requirement0": "2024-12-12 17:03:27 +0000"
+    },
+    "done": true
+  },
+  "ic2:planter_pot_wet_sponge_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-23 01:35:47 +0000"
     },
     "done": true
   },
@@ -3112,6 +3124,12 @@
     },
     "done": true
   },
+  "ic2:planter_pot_crimson_nylium_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-23 01:35:47 +0000"
+    },
+    "done": true
+  },
   "ic2:obsidian_lava_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 18:35:14 +0000"
@@ -3215,6 +3233,12 @@
     },
     "done": true
   },
+  "ic2:planter_pot_sponge_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-23 01:35:47 +0000"
+    },
+    "done": true
+  },
   "ic2:comparing_cable_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
@@ -3313,7 +3337,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 01:31:22 +0000"
+      "log_spam_fixer": "2024-12-23 01:41:22 +0000"
     },
     "done": false
   },
@@ -4350,6 +4374,12 @@
     },
     "done": true
   },
+  "ic2:planter_pot_rooted_dirt_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-23 01:35:47 +0000"
+    },
+    "done": true
+  },
   "ic2:8x_insulated_iron_cable_3x_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:20:32 +0000"
@@ -5000,7 +5030,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 01:31:22 +0000"
+      "log_spam_fixer": "2024-12-23 01:41:22 +0000"
     },
     "done": false
   },
@@ -5111,7 +5141,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 01:31:22 +0000"
+      "log_spam_fixer": "2024-12-23 01:41:22 +0000"
     },
     "done": false
   },
@@ -5429,7 +5459,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 01:31:22 +0000"
+      "log_spam_fixer": "2024-12-23 01:41:22 +0000"
     },
     "done": false
   },
@@ -5485,6 +5515,12 @@
   "ic2:void_tube_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 18:52:00 +0000"
+    },
+    "done": true
+  },
+  "ic2:planter_pot_podzol_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-23 01:35:47 +0000"
     },
     "done": true
   },
@@ -6053,7 +6089,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 01:31:22 +0000"
+      "log_spam_fixer": "2024-12-23 01:41:22 +0000"
     },
     "done": false
   },
@@ -6331,6 +6367,12 @@
   "ic2:filtered_scanner_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-10 00:39:19 +0000"
+    },
+    "done": true
+  },
+  "ic2:planter_pot_warped_nylium_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-23 01:35:47 +0000"
     },
     "done": true
   },
@@ -6764,6 +6806,12 @@
     },
     "done": true
   },
+  "ic2:planter_pot_mud_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-23 01:35:47 +0000"
+    },
+    "done": true
+  },
   "ic2:crafting_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 02:47:56 +0000"
@@ -6899,7 +6947,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 01:31:22 +0000"
+      "log_spam_fixer": "2024-12-23 01:41:22 +0000"
     },
     "done": false
   },
@@ -6942,7 +6990,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-12-23 01:31:22 +0000"
+      "log_spam_fixer": "2024-12-23 01:41:22 +0000"
     },
     "done": false
   },
