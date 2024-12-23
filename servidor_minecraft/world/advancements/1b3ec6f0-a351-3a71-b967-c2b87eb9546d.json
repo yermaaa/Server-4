@@ -3973,6 +3973,12 @@
     },
     "done": true
   },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2024-12-23 23:01:02 +0000"
+    },
+    "done": true
+  },
   "ic2:battery_belt_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:55:34 +0000"
