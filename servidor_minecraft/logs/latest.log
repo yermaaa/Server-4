@@ -3789,3 +3789,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 21:11:35.828] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
 [23Dec2024 21:11:40.338] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
 [23Dec2024 21:14:55.347] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[23Dec2024 21:16:39.234] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[23Dec2024 21:16:39.235] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[23Dec2024 21:16:39.235] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[23Dec2024 21:16:39.237] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[23Dec2024 21:16:39.238] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[23Dec2024 21:16:39.238] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[23Dec2024 21:16:39.239] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[23Dec2024 21:16:39.241] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[23Dec2024 21:16:39.242] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[23Dec2024 21:16:39.242] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[23Dec2024 21:16:39.569] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[23Dec2024 21:16:39.630] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[23Dec2024 21:16:39.630] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[23Dec2024 21:16:39.631] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[23Dec2024 21:16:40.083] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[23Dec2024 21:16:40.186] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5842cb58
+[23Dec2024 21:16:40.231] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ClementePicaro[/127.196.0.124:36915] logged in with entity id 1901 at (-955.2264059463557, 64.0, -203.35754193532253)
+[23Dec2024 21:16:40.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro joined the game
+[23Dec2024 21:16:40.392] [Server thread/INFO] [Jade/]: Syncing config to ClementePicaro (bee586a4-fe2f-3c23-981b-13f80d2e1a22)
+[23Dec2024 21:16:40.419] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ClementePicaro...
+[23Dec2024 21:16:40.420] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Dec2024 21:16:40.420] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ClementePicaro
+[23Dec2024 21:16:42.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2558ms or 51 ticks behind
+[23Dec2024 21:16:43.482] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/content/mobs/entity/Stoneling$StonelingVariant
+[23Dec2024 21:17:18.038] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[23Dec2024 21:18:58.097] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/multiblock/MultiblockCuboid$CuboidSide
+[23Dec2024 21:22:51.091] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/server/music/MusicManager$PlayListGetType
+[23Dec2024 21:23:59.693] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cursegame/minecraft/dt/network/ServerMessageTable$Action
