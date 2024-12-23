@@ -3852,3 +3852,47 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 21:45:08.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <YermanPC> sfsaf
 [23Dec2024 21:48:22.191] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClementePicaro lost connection: Disconnected
 [23Dec2024 21:48:22.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro left the game
+[23Dec2024 21:55:52.291] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/Interactable$InteractionResult
+[23Dec2024 21:55:52.295] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/InteractionInfo$Type
+[23Dec2024 21:55:52.297] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/utils/ServerType
+[23Dec2024 21:55:56.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4462ms or 89 ticks behind
+[23Dec2024 21:58:39.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1908, y=14, z=236} BlockPos{x=1880, y=18, z=221}
+[23Dec2024 21:58:41.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1879, y=20, z=221} BlockPos{x=1878, y=21, z=221}
+[23Dec2024 21:58:41.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1879, y=20, z=221} BlockPos{x=1878, y=21, z=221}
+[23Dec2024 21:58:41.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1879, y=20, z=221} BlockPos{x=1878, y=21, z=221}
+[23Dec2024 21:58:41.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1879, y=20, z=221} BlockPos{x=1878, y=21, z=221}
+[23Dec2024 21:58:41.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1879, y=20, z=221} BlockPos{x=1878, y=21, z=221}
+[23Dec2024 21:58:41.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1879, y=20, z=221} BlockPos{x=1878, y=21, z=221}
+[23Dec2024 21:58:53.984] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1873, y=28, z=224} BlockPos{x=1873, y=27, z=225}
+[23Dec2024 21:59:27.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1885, y=39, z=220} BlockPos{x=1884, y=39, z=220}
+[23Dec2024 21:59:31.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1885, y=41, z=208} BlockPos{x=1885, y=40, z=210}
+[23Dec2024 21:59:31.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1885, y=41, z=208} BlockPos{x=1884, y=41, z=210}
+[23Dec2024 21:59:31.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1885, y=41, z=208} BlockPos{x=1884, y=41, z=210}
+[23Dec2024 21:59:31.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1885, y=41, z=208} BlockPos{x=1884, y=41, z=210}
+[23Dec2024 21:59:31.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1885, y=41, z=208} BlockPos{x=1884, y=41, z=210}
+[23Dec2024 21:59:31.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1885, y=41, z=208} BlockPos{x=1884, y=41, z=210}
+[23Dec2024 21:59:41.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Spectator Mode]
+[23Dec2024 22:00:01.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Survival Mode]
+[23Dec2024 22:04:33.400] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[23Dec2024 22:04:33.436] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[23Dec2024 22:04:33.589] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[23Dec2024 22:04:33.590] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[23Dec2024 22:04:33.591] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[23Dec2024 22:04:33.592] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[23Dec2024 22:04:33.778] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[23Dec2024 22:04:33.779] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[23Dec2024 22:04:33.781] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[23Dec2024 22:04:33.781] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[23Dec2024 22:04:34.254] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[23Dec2024 22:04:34.298] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[23Dec2024 22:04:34.298] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[23Dec2024 22:04:34.298] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[23Dec2024 22:04:34.319] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[23Dec2024 22:04:34.422] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7221df6e
+[23Dec2024 22:04:34.462] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ClementePicaro[/127.196.0.124:33153] logged in with entity id 14980 at (-515.9763351182291, -42.0, 115.4754537314451)
+[23Dec2024 22:04:34.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro joined the game
+[23Dec2024 22:04:34.568] [Server thread/INFO] [Jade/]: Syncing config to ClementePicaro (bee586a4-fe2f-3c23-981b-13f80d2e1a22)
+[23Dec2024 22:04:34.595] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ClementePicaro...
+[23Dec2024 22:04:34.596] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Dec2024 22:04:34.597] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ClementePicaro
+[23Dec2024 22:12:40.822] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/minecraft/events/WaystoneUpdatedEvent$Type
