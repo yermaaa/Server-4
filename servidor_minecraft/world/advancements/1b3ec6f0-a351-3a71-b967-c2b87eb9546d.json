@@ -3048,6 +3048,12 @@
     },
     "done": true
   },
+  "ic2:bronze_dust_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-24 03:17:49 +0000"
+    },
+    "done": true
+  },
   "ic2:2x_insulated_gold_cable_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:20:32 +0000"
@@ -3755,6 +3761,12 @@
   "ic2:uranium_charcoal_quad_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:55:20 +0000"
+    },
+    "done": true
+  },
+  "ic2:iron_dust_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-24 03:17:49 +0000"
     },
     "done": true
   },
@@ -4761,6 +4773,12 @@
   "ic2:drill_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 20:23:59 +0000"
+    },
+    "done": true
+  },
+  "ic2:iron_dust_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-24 03:17:49 +0000"
     },
     "done": true
   },
@@ -7260,6 +7278,12 @@
   "ic2:uranium_nether_star_isotopic_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 19:16:18 +0000"
+    },
+    "done": true
+  },
+  "ic2:copper_dust_to_block_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-24 03:17:49 +0000"
     },
     "done": true
   },
