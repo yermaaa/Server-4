@@ -3843,3 +3843,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Dec2024 02:19:19.978] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/Interactable$InteractionResult
 [24Dec2024 02:19:19.981] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/InteractionInfo$Type
 [24Dec2024 02:21:36.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2838ms or 56 ticks behind
+[24Dec2024 02:35:12.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2392ms or 47 ticks behind
+[24Dec2024 02:38:26.504] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cursegame/minecraft/dt/network/ServerMessageTable$Action
+[24Dec2024 02:40:57.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClementePicaro lost connection: Disconnected
+[24Dec2024 02:40:57.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro left the game
+[24Dec2024 02:43:15.820] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cursegame/minecraft/dt/util/I18N
+[24Dec2024 02:49:07.173] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting mezz/jei/common/network/PacketIdClient
+[24Dec2024 02:49:07.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Gave 1    [Crystal table] to YermanPC]
