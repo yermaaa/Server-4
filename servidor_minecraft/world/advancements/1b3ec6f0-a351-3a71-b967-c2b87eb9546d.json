@@ -3203,6 +3203,12 @@
     },
     "done": true
   },
+  "ic2:mug_cocoa_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-24 00:14:18 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/almost_unkillable": {
     "criteria": {
       "coded_trigger": "2024-12-16 01:55:17 +0000"
@@ -3910,6 +3916,12 @@
   "ic2:tube_tool_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-13 05:41:01 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_cocoa_0_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-24 00:14:18 +0000"
     },
     "done": true
   },
@@ -4663,6 +4675,12 @@
   "ic2:2x_insulated_bronze_cable_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 05:20:32 +0000"
+    },
+    "done": true
+  },
+  "ic2:glass_cocoa_1_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-24 00:14:18 +0000"
     },
     "done": true
   },

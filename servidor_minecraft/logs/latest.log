@@ -3796,3 +3796,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Dec2024 00:10:24.679] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [24Dec2024 00:11:46.217] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/felnull/imp/server/music/MusicManager$PlayListGetType
 [24Dec2024 00:12:31.644] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/content/mobs/entity/Stoneling$StonelingVariant
+[24Dec2024 00:15:28.656] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cursegame/minecraft/dt/network/ServerMessageTable$Action
+[24Dec2024 00:23:23.498] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[24Dec2024 00:23:23.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YermanPC: Set own game mode to Creative Mode]
