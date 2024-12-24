@@ -1342,6 +1342,12 @@
     },
     "done": true
   },
+  "ic2:iridium_stone_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-24 03:00:49 +0000"
+    },
+    "done": true
+  },
   "ic2:iron_furnace_upgrade_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:15:22 +0000"
@@ -2247,6 +2253,12 @@
   "ic2:cfoam_wool_blue_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-14 07:54:28 +0000"
+    },
+    "done": true
+  },
+  "ic2:reinforced_brick_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-24 03:00:49 +0000"
     },
     "done": true
   },
@@ -4217,6 +4229,12 @@
   "ic2:re_battery_0_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-09 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "ic2:reinforced_door_recipe_advancement": {
+    "criteria": {
+      "hasItem": "2024-12-24 03:00:49 +0000"
     },
     "done": true
   },
