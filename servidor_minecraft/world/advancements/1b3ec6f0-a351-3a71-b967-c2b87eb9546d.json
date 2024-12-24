@@ -509,6 +509,12 @@
     },
     "done": true
   },
+  "corail_dt:tutorial/build_disk_3": {
+    "criteria": {
+      "requirement": "2024-12-24 00:55:04 +0000"
+    },
+    "done": true
+  },
   "ic2:cfoam_wall_red_1_recipe_advancement": {
     "criteria": {
       "hasItem": "2024-12-12 21:59:41 +0000"

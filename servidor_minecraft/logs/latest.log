@@ -3806,3 +3806,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Dec2024 00:38:18.190] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting slimeknights/tconstruct/smeltery/block/entity/tank/ISmelteryTankHandler$FluidChange
 [24Dec2024 00:43:39.647] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
 [24Dec2024 00:54:25.153] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/cursegame/minecraft/dt/util/I18N
+[24Dec2024 00:55:04.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YermanPC has made the advancement [The mark of durability]
