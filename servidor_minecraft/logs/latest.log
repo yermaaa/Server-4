@@ -3838,3 +3838,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Dec2024 01:23:37.240] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
 [24Dec2024 01:23:37.241] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ClementePicaro
 [24Dec2024 01:23:39.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2298ms or 45 ticks behind
+[24Dec2024 01:25:28.389] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
