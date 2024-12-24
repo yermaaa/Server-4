@@ -6179,6 +6179,8 @@
   },
   "tconstruct:smeltery/abilities": {
     "criteria": {
+      "luck": "2024-12-24 00:28:07 +0000",
+      "gilded": "2024-12-24 00:26:23 +0000",
       "autosmelt": "2024-12-23 02:31:05 +0000"
     },
     "done": false
