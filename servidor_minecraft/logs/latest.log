@@ -3839,3 +3839,36 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24Dec2024 01:23:37.241] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ClementePicaro
 [24Dec2024 01:23:39.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2298ms or 45 ticks behind
 [24Dec2024 01:25:28.389] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[24Dec2024 01:35:44.402] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xyz/przemyk/simpleplanes/network/ChangeThrottlePacket$Type
+[24Dec2024 01:36:28.468] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[24Dec2024 01:36:28.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ClementePicaro> t
+[24Dec2024 01:36:38.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ClementePicaro lost connection: Timed out
+[24Dec2024 01:36:38.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro left the game
+[24Dec2024 01:36:38.356] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[24Dec2024 01:36:38.438] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Dec2024 01:37:33.781] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[24Dec2024 01:37:33.782] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[24Dec2024 01:37:33.965] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[24Dec2024 01:37:33.965] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[24Dec2024 01:37:33.966] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[24Dec2024 01:37:33.966] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[24Dec2024 01:37:34.078] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[24Dec2024 01:37:34.078] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[24Dec2024 01:37:34.159] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[24Dec2024 01:37:34.159] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[24Dec2024 01:37:34.160] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[24Dec2024 01:37:34.160] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[24Dec2024 01:37:34.160] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[24Dec2024 01:37:34.160] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 107
+[24Dec2024 01:37:34.160] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 108
+[24Dec2024 01:37:34.262] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@416de89c
+[24Dec2024 01:37:34.304] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ClementePicaro[/127.196.0.124:34163] logged in with entity id 17218 at (468.1475974704328, 99.0, -649.4252519729113)
+[24Dec2024 01:37:34.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ClementePicaro joined the game
+[24Dec2024 01:37:34.381] [Server thread/INFO] [Jade/]: Syncing config to ClementePicaro (bee586a4-fe2f-3c23-981b-13f80d2e1a22)
+[24Dec2024 01:37:34.408] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to ClementePicaro...
+[24Dec2024 01:37:34.408] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[24Dec2024 01:37:34.408] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to ClementePicaro
+[24Dec2024 01:42:43.673] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/Interactable$InteractionResult
+[24Dec2024 01:42:43.677] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/interactions/InteractionInfo$Type
+[24Dec2024 01:42:43.680] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting gollorum/signpost/utils/ServerType
+[24Dec2024 01:43:46.859] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
